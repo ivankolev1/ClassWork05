@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Break {
+public class Sum {
 
 	public static void main(String[] args)
 	{
